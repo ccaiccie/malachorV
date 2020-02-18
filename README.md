@@ -1,4 +1,4 @@
-# malachorV
+# Malachor V
 
 ![Malachor V](https://raw.githubusercontent.com/packetferret/malachorV/master/images/malachorV.jpg "Malachor V")
 
