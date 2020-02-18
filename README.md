@@ -20,7 +20,7 @@ Update the `defaults.yaml` file found in the `nornir` folder of this project.
 
 ### Building the container
 
-If you're privy to building the containers, and you're on a *nix workstation with Make installed (build-essentials), then clone this repository to your local machine and proceed to build the container:
+Clone this repository to your local machine and proceed to build the container:
 
 `make build`
 
