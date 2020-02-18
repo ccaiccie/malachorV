@@ -1,0 +1,24 @@
+---
+cisco:
+    platform: ios
+    data:
+        score_automation: 'dead last'
+        score_software_quality: 'dead last'
+
+arista:
+    platform: eos
+    data:
+        score_automation: '2nd place'
+        score_software_quality: '1st place'
+
+juniper:
+    platform: junos
+    data:
+        score_automation: '1st place'
+        score_software_quality: '2nd place'
+
+paloalto:
+    platform: panos
+    data:
+        score_automation: '3rd place'
+        score_software_quality: '3rd place'

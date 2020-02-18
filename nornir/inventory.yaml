@@ -1,0 +1,40 @@
+---
+hoth:
+    hostname: hoth.fountainhead.home
+    groups:
+        - juniper
+
+endor:
+    hostname: endor.fountainhead.home
+    groups:
+        - juniper
+
+tatooine:
+    hostname: tatooine.fountainhead.home
+    groups:
+        - juniper
+
+alderaan:
+    hostname: alderaan.fountainhead.home
+    groups:
+        - juniper
+
+coruscant:
+    hostname: coruscant.fountainhead.home
+    groups:
+        - juniper
+
+dagobah:
+    hostname: dagobah.fountainhead.home
+    groups:
+        - juniper
+
+kamino:
+    hostname: kamino.fountainhead.home
+    groups:
+        - juniper
+
+naboo:
+    hostname: naboo.fountainhead.home
+    groups:
+        - juniper
